@@ -69,4 +69,4 @@ const guilherme = {
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermgomes2008@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/guimgomes)
 
-![Coding](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJsMXdmM3ZsaGpneGw4NnkyNzMyZGEzZml3cjB5bXAwMWh0dG1iZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+![Coding](https://raw.githubusercontent.com/Potential17/Potential17/refs/heads/master/user%20(2).gif)
