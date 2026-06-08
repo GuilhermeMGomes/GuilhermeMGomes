@@ -8,23 +8,23 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Guilherme+👋;Desenvolvedor+Web+Fullstack;Aprendendo+e+evoluindo+todo+dia;Aberto+a+oportunidades+de+trabalho!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Guilherme+👋;Fullstack+Web+Developer;Learning+and+growing+every+day;Open+to+work+opportunities!)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 🧑‍💻 About Me
 
 ```javascript
 const guilherme = {
-  nome:     "Guilherme Gomes",
-  nivel:    "Trainee Fullstack Developer",
-  foco:     "Desenvolvimento Web",
-  status:   "📚 Aprendendo | 🔍 Buscando oportunidades",
+  level:    "Trainee Fullstack Developer",
+  focus:    "Web Development",
+  status:   "📚 Learning | 🔍 Looking for opportunities",
+  goal:     "Grow as a dev and contribute to real projects",
   discord:  "guimgomes",
   email:    "guilhermgomes2008@gmail.com",
-  objetivo: "Crescer como dev e contribuir em projetos reais"
+
 };
 ```
 
@@ -40,7 +40,7 @@ const guilherme = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ⚙️ Back-end & Banco de Dados
+### ⚙️ Back-end & Database
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -58,22 +58,22 @@ const guilherme = {
 
 ---
 
-## 🌱 Atualmente
+## 🌱 Currently
 
 <div align="center">
 
-| 🎯 Foco | 📌 Status |
+| 🎯 Focus | 📌 Status |
 |--------|--------|
-| Aprofundando em JavaScript | 🔄 Em andamento |
-| Projetos fullstack com PHP + MySQL | 🔄 Em andamento |
-| Construindo portfólio | 🔄 Em andamento |
-| Buscando primeira oportunidade | 🟢 Aberto |
+| Deepening JavaScript knowledge | 🔄 In progress |
+| Fullstack projects with PHP + MySQL | 🔄 In progress |
+| Building portfolio | 🔄 In progress |
+| Looking for first opportunity | 🟢 Open |
 
 </div>
 
 ---
 
-## 📬 Contato
+## 📬 Contact
 
 <div align="center">
 
@@ -82,8 +82,6 @@ const guilherme = {
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/guimgomes)
 
 </div>
-
-
 
 <div align="center">
 
