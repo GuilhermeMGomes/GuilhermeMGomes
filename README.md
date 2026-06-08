@@ -1,15 +1,20 @@
+<div align="center">
 
-# 𝙊𝙡𝙖́! 𝙎𝙤𝙪 𝙂𝙪𝙞𝙡𝙝𝙚𝙧𝙢𝙚 𝙈 𝙂𝙤𝙢𝙚𝙨 🍃 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Guilherme%20Gomes&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Web%20Developer%20·%20Trainee&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
+</div>
+
+<br/>
+
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Guilherme+👋;Desenvolvedor+Web+Fullstack;Aprendendo+e+evoluindo+todo+dia;Aberto+a+oportunidades+de+trabalho!)](https://git.io/typing-svg)
 
+</div>
 
 ---
 
-## 🧑‍💻 𝙎𝙤𝙗𝙧𝙚 𝙢𝙞𝙢 
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=guilhermemgomes.guilhermemgomes&color=A78BFA)
+## 🧑‍💻 Sobre mim
 
 ```javascript
 const guilherme = {
@@ -25,8 +30,9 @@ const guilherme = {
 
 ---
 
-## 🛠️ 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠
+## 🛠️ Tech Stack
 
+<div align="center">
 
 ### 🌐 Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,17 +44,23 @@ const guilherme = {
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-----
-![GitHub Streak](https://streak-stats.demolab.com/?user=guilhermemgomes&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)
-
+</div>
 
 ---
 
+## 📊 GitHub Stats
 
-## 🌱 𝘼𝙩𝙪𝙖𝙡𝙢𝙚𝙣𝙩𝙚
+<div align="center">
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=guilhermemgomes&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)
 
+</div>
+
+---
+
+## 🌱 Atualmente
+
+<div align="center">
 
 | 🎯 Foco | 📌 Status |
 |--------|--------|
@@ -61,11 +73,22 @@ const guilherme = {
 
 ---
 
-## 📬 𝘾𝙤𝙣𝙩𝙖𝙩𝙤
+## 📬 Contato
 
-
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermemgomes/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermgomes2008@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/guimgomes)
 
+</div>
+
+---
+
+<div align="center">
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=guilhermemgomes.guilhermemgomes&color=A78BFA)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+</div>
